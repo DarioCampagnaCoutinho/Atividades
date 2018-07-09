@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 08/07/2018, 10:18:54
+    Author     : dario
+*/
+@import url('https://fonts.googleapis.com/css?family=Francois+One|Lato');
+
+*{
+    margin: 0px;
+    border: 0px;
+}
+body {
+	background-color: rgba(0, 0, 0, .04);
+}
+.alinhar{
+    text-align: center;
+}
+
+
